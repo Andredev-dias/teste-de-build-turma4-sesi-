@@ -8,7 +8,8 @@ function App() {
 
   return (
     <>
-      <h1>maria e slonguinho</h1>
+      <h1>teste turma 4</h1>
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4M7nZjgoZAoxHYQi_kKvCnWceK3LWl92uXQ&s" alt="opa" />
     </>
   )
 }
